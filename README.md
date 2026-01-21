@@ -4,7 +4,7 @@ This is a beginner project on designing a 5-stage Pipelined 32-bit processor bas
 
 It follows the traditional IF -> ID -> EX -> MEM -> WB stages. I tried using the complete the instruction set (37 instructions). I also tried implementing hazard handling.
 
-The processor is not in perfect working condition, but works well for maximum instructions and helped me in learning a lot.
+The processor is not in perfect working condition, but works well for maximum instructions and helped me in learning a lot. I am trying to learn more about processor designing and will try to improve this design.
 
 <img width="881" height="373" alt="image" src="https://github.com/user-attachments/assets/a073e33d-af5f-47ee-8db5-b3c19503ddee" />
 <img width="1290" height="730" alt="image" src="https://github.com/user-attachments/assets/5bdb1c24-aaa7-4ccb-8349-08f9998a97cd" />
